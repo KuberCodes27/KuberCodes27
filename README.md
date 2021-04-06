@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KuberCodes27
 - 👀 I’m interested in learning somethin new
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ...mail me.
 
 <!---
 KuberCodes27/KuberCodes27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
